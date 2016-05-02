@@ -1,4 +1,4 @@
-Thanks to [phacks](https://github.com/phacks/redux-todomvc) for the tutorial
+## Thanks to [phacks](https://github.com/phacks/redux-todomvc) for the tutorial !
 
 Links : 
 
